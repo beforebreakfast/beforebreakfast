@@ -1,7 +1,7 @@
 # Hello, World! 🌟
 
 ## 👤 About Me
-My name is Thamonwan Sampuntasit, and I’m a passionate Computer Science student at **Payao University**. With a strong enthusiasm for coding, I’m on a journey to explore the world of technology and innovation.
+My name is Thamonwan Sampuntasit, and I’m a passionate Computer Science student at **Phayao University**. With a strong enthusiasm for coding, I’m on a journey to explore the world of technology and innovation.
 
 ## 💡 Skills
 - **Languages:**  
