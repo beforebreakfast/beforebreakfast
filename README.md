@@ -1,52 +1,58 @@
-# 🌐 Portfolio Website
+# Hello, World! 🌟
 
 ## 👤 About Me
-Hello! I'm **Thamonwan Sampuntasit**, a Computer Science student at **University of Phayao** with a strong passion for technology and software development.  
-I am continuously improving my skills through coursework and personal projects, and I am currently seeking an **internship opportunity** to gain real-world experience.
+My name is Thamonwan Sampuntasit, and I’m a passionate Computer Science student at **Phayao University**.  
+With a strong enthusiasm for coding, I’m on a journey to explore the world of technology and innovation.
 
 ---
 
 ## 💡 Skills
 
-### 💻 Programming Languages
-- Python 🐍  
-- Java ☕  
-- HTML, CSS, JavaScript 🌐  
+- **Languages:**  
+  - Python 🐍  
+  - Java ☕  
+  - HTML, CSS, JavaScript 🌐  
 
-### 🗄️ Databases
-- MySQL  
-- MongoDB  
+- **Frameworks & Libraries:**  
+  - Node.js  
+  - Express.js  
+  - Flutter  
+  - TensorFlow / Keras  
 
-### ⚙️ Tools & Platforms
-- Git & GitHub  
-- VS Code  
-- Docker  
-- Postman  
-- Figma  
+- **Databases:**  
+  - MySQL 🗄️  
+  - MongoDB 🍃  
 
-### 🌍 Languages
-- Thai (Native)  
-- English (EF SET B2 - Upper Intermediate)  
+- **Tools & Platforms:**  
+  - Git & GitHub 🔧  
+  - VS Code 🧑‍💻  
+  - Postman 📬  
+  - Docker 🐳  
+  - Figma 🎨  
 
----
-
-## 🌱 Interests
-- Cloud Computing ☁️  
-- Backend Development ⚙️  
-- Web Development 🌐  
-- Problem Solving 🧠  
-
----
-
-## 🚀 Live Demo
-🔗 https://beforebreakfast.github.io/Portfolio/
+- **Other:**  
+  - REST API  
+  - Basic Web Development  
+  - Basic Backend Development  
+  - Basic Frontend Development  
 
 ---
 
-## 📫 Contact
-- 📧 Email: gamthamonwan04@gmail.com  
-- 💻 GitHub: https://github.com/beforebreakfast  
+## 🌱 Learning & Interests
+I’m diving into software development and database management.  
+I love solving problems and am excited about creating impactful solutions.
 
 ---
 
-⭐ Thank you for visiting my portfolio!
+## 🌍 Languages
+- Thai (Native) 🇹🇭  
+- English (EF SET B2) 🇬🇧  
+
+---
+
+## 📫 Let's Connect
+- **Email:** gamthamonwan04@gmail.com  
+
+---
+
+Thanks for stopping by! Looking forward to connecting! 😊
