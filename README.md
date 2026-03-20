@@ -1,19 +1,52 @@
-# Hello, World! 🌟
+# 🌐 Portfolio Website
 
 ## 👤 About Me
-My name is Thamonwan Sampuntasit, and I’m a passionate Computer Science student at **Phayao University**. With a strong enthusiasm for coding, I’m on a journey to explore the world of technology and innovation.
+Hello! I'm **Thamonwan Sampuntasit**, a Computer Science student at **University of Phayao** with a strong passion for technology and software development.  
+I am continuously improving my skills through coursework and personal projects, and I am currently seeking an **internship opportunity** to gain real-world experience.
+
+---
 
 ## 💡 Skills
-- **Languages:**  
-  - Python 🐍  
-  - Java ☕  
-- **Databases:**  
-  - MySQL 🗄️  
 
-## 🌱 Learning & Interests
-I’m diving into software development and database management. I love solving problems and am excited about creating impactful solutions.
+### 💻 Programming Languages
+- Python 🐍  
+- Java ☕  
+- HTML, CSS, JavaScript 🌐  
 
-## 📫 Let's Connect
-- **Email:** gamthamonwan04@gmail.com
+### 🗄️ Databases
+- MySQL  
+- MongoDB  
 
-Thanks for stopping by! Looking forward to connecting! 😊
+### ⚙️ Tools & Platforms
+- Git & GitHub  
+- VS Code  
+- Docker  
+- Postman  
+- Figma  
+
+### 🌍 Languages
+- Thai (Native)  
+- English (EF SET B2 - Upper Intermediate)  
+
+---
+
+## 🌱 Interests
+- Cloud Computing ☁️  
+- Backend Development ⚙️  
+- Web Development 🌐  
+- Problem Solving 🧠  
+
+---
+
+## 🚀 Live Demo
+🔗 https://beforebreakfast.github.io/Portfolio/
+
+---
+
+## 📫 Contact
+- 📧 Email: gamthamonwan04@gmail.com  
+- 💻 GitHub: https://github.com/beforebreakfast  
+
+---
+
+⭐ Thank you for visiting my portfolio!
